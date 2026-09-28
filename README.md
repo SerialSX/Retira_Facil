@@ -1,3 +1,7 @@
+# Sistema web para agendar pedidos e organizar a retirada e entrega na lojinha da Unifor (CC). React com CRUD de back-end.
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
